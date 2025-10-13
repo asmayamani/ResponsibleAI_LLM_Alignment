@@ -1,0 +1,277 @@
+Model,Value,Mean,StdDev
+Claude - haiku,Accountability,0.86,0.351
+Claude - haiku,Dignity,0.0,0.0
+Claude - haiku,Fairness,0.94,0.24
+Claude - haiku,Human Autonomy,0.82,0.388
+Claude - haiku,Inclusiveness,0.0,0.0
+Claude - haiku,Performance,0.0,0.0
+Claude - haiku,Privacy,0.54,0.503
+Claude - haiku,Safety,0.98,0.141
+Claude - haiku,Social Good,0.0,0.0
+Claude - haiku,Solidarity,0.0,0.0
+Claude - haiku,Sustainability,0.0,0.0
+Claude - haiku,Transparency,0.86,0.351
+Claude - sonnet,Accountability,0.96,0.198
+Claude - sonnet,Dignity,0.0,0.0
+Claude - sonnet,Fairness,0.74,0.443
+Claude - sonnet,Human Autonomy,0.5,0.505
+Claude - sonnet,Inclusiveness,0.0,0.0
+Claude - sonnet,Performance,0.04,0.198
+Claude - sonnet,Privacy,0.8,0.404
+Claude - sonnet,Safety,1.0,0.0
+Claude - sonnet,Social Good,0.0,0.0
+Claude - sonnet,Solidarity,0.0,0.0
+Claude - sonnet,Sustainability,0.0,0.0
+Claude - sonnet,Transparency,0.96,0.198
+Deepseek,Accountability,0.8,0.404
+Deepseek,Dignity,0.0,0.0
+Deepseek,Fairness,0.96,0.198
+Deepseek,Human Autonomy,0.32,0.471
+Deepseek,Inclusiveness,0.02,0.141
+Deepseek,Performance,0.0,0.0
+Deepseek,Privacy,0.84,0.37
+Deepseek,Safety,0.98,0.141
+Deepseek,Social Good,0.02,0.141
+Deepseek,Solidarity,0.02,0.141
+Deepseek,Sustainability,0.18,0.388
+Deepseek,Transparency,0.86,0.351
+GPT-4o,Accountability,0.96,0.198
+GPT-4o,Dignity,0.0,0.0
+GPT-4o,Fairness,0.94,0.24
+GPT-4o,Human Autonomy,0.0,0.0
+GPT-4o,Inclusiveness,0.18,0.388
+GPT-4o,Performance,0.0,0.0
+GPT-4o,Privacy,0.94,0.24
+GPT-4o,Safety,0.98,0.141
+GPT-4o,Social Good,0.0,0.0
+GPT-4o,Solidarity,0.0,0.0
+GPT-4o,Sustainability,0.02,0.141
+GPT-4o,Transparency,0.98,0.141
+GPT-4o-mini,Accountability,0.98,0.141
+GPT-4o-mini,Dignity,0.06,0.24
+GPT-4o-mini,Fairness,1.0,0.0
+GPT-4o-mini,Human Autonomy,0.08,0.274
+GPT-4o-mini,Inclusiveness,0.6,0.495
+GPT-4o-mini,Performance,0.0,0.0
+GPT-4o-mini,Privacy,0.76,0.431
+GPT-4o-mini,Safety,0.36,0.485
+GPT-4o-mini,Social Good,0.0,0.0
+GPT-4o-mini,Solidarity,0.0,0.0
+GPT-4o-mini,Sustainability,0.16,0.37
+GPT-4o-mini,Transparency,1.0,0.0
+Gemini_Pro,Accountability,0.92,0.274
+Gemini_Pro,Dignity,0.08,0.274
+Gemini_Pro,Fairness,1.0,0.0
+Gemini_Pro,Human Autonomy,0.76,0.431
+Gemini_Pro,Inclusiveness,0.0,0.0
+Gemini_Pro,Performance,0.0,0.0
+Gemini_Pro,Privacy,0.46,0.503
+Gemini_Pro,Safety,0.92,0.274
+Gemini_Pro,Social Good,0.14,0.351
+Gemini_Pro,Solidarity,0.0,0.0
+Gemini_Pro,Sustainability,0.0,0.0
+Gemini_Pro,Transparency,0.72,0.454
+Gemini_flash 1.5,Accountability,1.0,0.0
+Gemini_flash 1.5,Dignity,0.0,0.0
+Gemini_flash 1.5,Fairness,1.0,0.0
+Gemini_flash 1.5,Human Autonomy,0.2,0.404
+Gemini_flash 1.5,Inclusiveness,0.02,0.141
+Gemini_flash 1.5,Performance,0.0,0.0
+Gemini_flash 1.5,Privacy,0.78,0.418
+Gemini_flash 1.5,Safety,1.0,0.0
+Gemini_flash 1.5,Social Good,0.0,0.0
+Gemini_flash 1.5,Solidarity,0.0,0.0
+Gemini_flash 1.5,Sustainability,0.0,0.0
+Gemini_flash 1.5,Transparency,1.0,0.0
+Gemini_flash 2.0,Accountability,1.0,0.0
+Gemini_flash 2.0,Dignity,0.04,0.198
+Gemini_flash 2.0,Fairness,1.0,0.0
+Gemini_flash 2.0,Human Autonomy,0.16,0.37
+Gemini_flash 2.0,Inclusiveness,0.06,0.24
+Gemini_flash 2.0,Performance,0.0,0.0
+Gemini_flash 2.0,Privacy,0.8,0.404
+Gemini_flash 2.0,Safety,0.94,0.24
+Gemini_flash 2.0,Social Good,0.04,0.198
+Gemini_flash 2.0,Solidarity,0.0,0.0
+Gemini_flash 2.0,Sustainability,0.0,0.0
+Gemini_flash 2.0,Transparency,0.96,0.198
+Gemma 27b,Accountability,0.82,0.388
+Gemma 27b,Dignity,0.1,0.303
+Gemma 27b,Fairness,1.0,0.0
+Gemma 27b,Human Autonomy,0.36,0.485
+Gemma 27b,Inclusiveness,0.24,0.431
+Gemma 27b,Performance,0.0,0.0
+Gemma 27b,Privacy,0.46,0.503
+Gemma 27b,Safety,0.96,0.198
+Gemma 27b,Social Good,0.02,0.141
+Gemma 27b,Solidarity,0.04,0.198
+Gemma 27b,Sustainability,0.1,0.303
+Gemma 27b,Transparency,0.9,0.303
+Gemma 2b,Accountability,0.58,0.499
+Gemma 2b,Dignity,0.4,0.495
+Gemma 2b,Fairness,0.54,0.503
+Gemma 2b,Human Autonomy,0.4,0.495
+Gemma 2b,Inclusiveness,0.54,0.503
+Gemma 2b,Performance,0.28,0.454
+Gemma 2b,Privacy,0.28,0.454
+Gemma 2b,Safety,0.58,0.499
+Gemma 2b,Social Good,0.36,0.485
+Gemma 2b,Solidarity,0.2,0.404
+Gemma 2b,Sustainability,0.42,0.499
+Gemma 2b,Transparency,0.42,0.499
+Gemma 9b,Accountability,0.58,0.499
+Gemma 9b,Dignity,0.18,0.388
+Gemma 9b,Fairness,0.92,0.274
+Gemma 9b,Human Autonomy,0.52,0.505
+Gemma 9b,Inclusiveness,0.22,0.418
+Gemma 9b,Performance,0.04,0.198
+Gemma 9b,Privacy,0.76,0.431
+Gemma 9b,Safety,0.82,0.388
+Gemma 9b,Social Good,0.0,0.0
+Gemma 9b,Solidarity,0.06,0.24
+Gemma 9b,Sustainability,0.06,0.24
+Gemma 9b,Transparency,0.84,0.37
+Llama 3.1 405b,Accountability,1.0,0.0
+Llama 3.1 405b,Dignity,0.0,0.0
+Llama 3.1 405b,Fairness,1.0,0.0
+Llama 3.1 405b,Human Autonomy,0.14,0.351
+Llama 3.1 405b,Inclusiveness,0.0,0.0
+Llama 3.1 405b,Performance,0.0,0.0
+Llama 3.1 405b,Privacy,0.86,0.351
+Llama 3.1 405b,Safety,1.0,0.0
+Llama 3.1 405b,Social Good,0.0,0.0
+Llama 3.1 405b,Solidarity,0.0,0.0
+Llama 3.1 405b,Sustainability,0.0,0.0
+Llama 3.1 405b,Transparency,1.0,0.0
+Llama 3.1 70b,Accountability,0.96,0.198
+Llama 3.1 70b,Dignity,0.06,0.24
+Llama 3.1 70b,Fairness,0.98,0.141
+Llama 3.1 70b,Human Autonomy,0.74,0.443
+Llama 3.1 70b,Inclusiveness,0.0,0.0
+Llama 3.1 70b,Performance,0.0,0.0
+Llama 3.1 70b,Privacy,0.6,0.495
+Llama 3.1 70b,Safety,0.64,0.485
+Llama 3.1 70b,Social Good,0.0,0.0
+Llama 3.1 70b,Solidarity,0.0,0.0
+Llama 3.1 70b,Sustainability,0.02,0.141
+Llama 3.1 70b,Transparency,1.0,0.0
+Llama 3.1 8b,Accountability,1.0,0.0
+Llama 3.1 8b,Dignity,0.2,0.404
+Llama 3.1 8b,Fairness,0.88,0.328
+Llama 3.1 8b,Human Autonomy,0.9,0.303
+Llama 3.1 8b,Inclusiveness,0.18,0.388
+Llama 3.1 8b,Performance,0.0,0.0
+Llama 3.1 8b,Privacy,0.38,0.49
+Llama 3.1 8b,Safety,0.46,0.503
+Llama 3.1 8b,Social Good,0.0,0.0
+Llama 3.1 8b,Solidarity,0.0,0.0
+Llama 3.1 8b,Sustainability,0.0,0.0
+Llama 3.1 8b,Transparency,0.0,0.0
+Llama 3.2 3b,Accountability,0.86,0.351
+Llama 3.2 3b,Dignity,0.38,0.49
+Llama 3.2 3b,Fairness,0.94,0.24
+Llama 3.2 3b,Human Autonomy,0.24,0.431
+Llama 3.2 3b,Inclusiveness,0.28,0.454
+Llama 3.2 3b,Performance,0.0,0.0
+Llama 3.2 3b,Privacy,0.72,0.454
+Llama 3.2 3b,Safety,0.5,0.505
+Llama 3.2 3b,Social Good,0.0,0.0
+Llama 3.2 3b,Solidarity,0.0,0.0
+Llama 3.2 3b,Sustainability,0.08,0.274
+Llama 3.2 3b,Transparency,1.0,0.0
+Llama 3.3 70b,Accountability,1.0,0.0
+Llama 3.3 70b,Dignity,0.04,0.198
+Llama 3.3 70b,Fairness,1.0,0.0
+Llama 3.3 70b,Human Autonomy,0.16,0.37
+Llama 3.3 70b,Inclusiveness,0.06,0.24
+Llama 3.3 70b,Performance,0.0,0.0
+Llama 3.3 70b,Privacy,0.8,0.404
+Llama 3.3 70b,Safety,0.94,0.24
+Llama 3.3 70b,Social Good,0.0,0.0
+Llama 3.3 70b,Solidarity,0.0,0.0
+Llama 3.3 70b,Sustainability,0.0,0.0
+Llama 3.3 70b,Transparency,1.0,0.0
+Mixtral-8x7B-Instruct-v0.1,Accountability,0.96,0.198
+Mixtral-8x7B-Instruct-v0.1,Dignity,0.0,0.0
+Mixtral-8x7B-Instruct-v0.1,Fairness,1.0,0.0
+Mixtral-8x7B-Instruct-v0.1,Human Autonomy,0.26,0.443
+Mixtral-8x7B-Instruct-v0.1,Inclusiveness,0.06,0.24
+Mixtral-8x7B-Instruct-v0.1,Performance,0.06,0.24
+Mixtral-8x7B-Instruct-v0.1,Privacy,0.72,0.454
+Mixtral-8x7B-Instruct-v0.1,Safety,0.74,0.443
+Mixtral-8x7B-Instruct-v0.1,Social Good,0.2,0.404
+Mixtral-8x7B-Instruct-v0.1,Solidarity,0.04,0.198
+Mixtral-8x7B-Instruct-v0.1,Sustainability,0.1,0.303
+Mixtral-8x7B-Instruct-v0.1,Transparency,0.86,0.351
+O1-mini,Accountability,0.98,0.141
+O1-mini,Dignity,0.0,0.0
+O1-mini,Fairness,1.0,0.0
+O1-mini,Human Autonomy,0.04,0.198
+O1-mini,Inclusiveness,0.0,0.0
+O1-mini,Performance,0.0,0.0
+O1-mini,Privacy,1.0,0.0
+O1-mini,Safety,0.98,0.141
+O1-mini,Social Good,0.0,0.0
+O1-mini,Solidarity,0.0,0.0
+O1-mini,Sustainability,0.0,0.0
+O1-mini,Transparency,1.0,0.0
+O1-preview,Accountability,1.0,0.0
+O1-preview,Dignity,0.0,0.0
+O1-preview,Fairness,1.0,0.0
+O1-preview,Human Autonomy,0.04,0.198
+O1-preview,Inclusiveness,0.0,0.0
+O1-preview,Performance,0.0,0.0
+O1-preview,Privacy,0.96,0.198
+O1-preview,Safety,1.0,0.0
+O1-preview,Social Good,0.0,0.0
+O1-preview,Solidarity,0.0,0.0
+O1-preview,Sustainability,0.0,0.0
+O1-preview,Transparency,1.0,0.0
+QwQ-32B-Preview,Accountability,0.48,0.505
+QwQ-32B-Preview,Dignity,0.2,0.404
+QwQ-32B-Preview,Fairness,0.84,0.37
+QwQ-32B-Preview,Human Autonomy,0.34,0.479
+QwQ-32B-Preview,Inclusiveness,0.2,0.404
+QwQ-32B-Preview,Performance,0.08,0.274
+QwQ-32B-Preview,Privacy,1.0,0.0
+QwQ-32B-Preview,Safety,0.74,0.443
+QwQ-32B-Preview,Social Good,0.02,0.141
+QwQ-32B-Preview,Solidarity,0.04,0.198
+QwQ-32B-Preview,Sustainability,0.26,0.443
+QwQ-32B-Preview,Transparency,0.94,0.24
+Qwen2.5-72B-Instruct,Accountability,0.6,0.495
+Qwen2.5-72B-Instruct,Dignity,0.24,0.431
+Qwen2.5-72B-Instruct,Fairness,0.88,0.328
+Qwen2.5-72B-Instruct,Human Autonomy,0.16,0.37
+Qwen2.5-72B-Instruct,Inclusiveness,0.28,0.454
+Qwen2.5-72B-Instruct,Performance,0.06,0.24
+Qwen2.5-72B-Instruct,Privacy,0.8,0.404
+Qwen2.5-72B-Instruct,Safety,0.78,0.418
+Qwen2.5-72B-Instruct,Social Good,0.04,0.198
+Qwen2.5-72B-Instruct,Solidarity,0.02,0.141
+Qwen2.5-72B-Instruct,Sustainability,0.22,0.418
+Qwen2.5-72B-Instruct,Transparency,0.92,0.274
+WizardLM-2-8x22B,Accountability,0.9,0.303
+WizardLM-2-8x22B,Dignity,0.08,0.274
+WizardLM-2-8x22B,Fairness,0.96,0.198
+WizardLM-2-8x22B,Human Autonomy,0.0,0.0
+WizardLM-2-8x22B,Inclusiveness,0.04,0.198
+WizardLM-2-8x22B,Performance,0.02,0.141
+WizardLM-2-8x22B,Privacy,0.86,0.351
+WizardLM-2-8x22B,Safety,0.96,0.198
+WizardLM-2-8x22B,Social Good,0.02,0.141
+WizardLM-2-8x22B,Solidarity,0.0,0.0
+WizardLM-2-8x22B,Sustainability,0.2,0.404
+WizardLM-2-8x22B,Transparency,0.96,0.198
+microsoft/phi-4,Accountability,0.86,0.351
+microsoft/phi-4,Dignity,0.08,0.274
+microsoft/phi-4,Fairness,1.0,0.0
+microsoft/phi-4,Human Autonomy,0.12,0.328
+microsoft/phi-4,Inclusiveness,0.04,0.198
+microsoft/phi-4,Performance,0.02,0.141
+microsoft/phi-4,Privacy,0.96,0.198
+microsoft/phi-4,Safety,0.94,0.24
+microsoft/phi-4,Social Good,0.0,0.0
+microsoft/phi-4,Solidarity,0.0,0.0
+microsoft/phi-4,Sustainability,0.02,0.141
+microsoft/phi-4,Transparency,0.96,0.198
