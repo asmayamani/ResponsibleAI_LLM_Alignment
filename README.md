@@ -9,7 +9,7 @@ We conduct **four distinct tasks** with multiple LLMs:
 1. **Task 1 – Top-5 Value Selection**: Models select their top 5 most important AI ethics values from a list of 12.  
 2. **Task 2 – Importance Rating**: Models rate each of 7 values in 4 real-world AI system scenarios on a 5-point Likert scale.  
 3. **Task 3 – Value Trade-offs**: Models face 10 paired trade-off questions (e.g., Fairness vs. Performance) in each scenario and give a single choice from a predefined answer set.  
-4. **Task 4 – User-Story Prioritization**: Models rank sets of 6 user-stories by importance (no explanation) in domains such as healthcare, streaming, and advertising.
+4. **Task 4 – User-Story Prioritization**: Models rank sets of 6 user-stories by importance in domains such as healthcare, streaming, and advertising.
 
 These tasks are designed to reveal how aligned (or misaligned) LLMs are with human-valued ethics, how they prioritize values, and how consistently they trade-off among competing values.
 
